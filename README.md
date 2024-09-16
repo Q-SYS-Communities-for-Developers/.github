@@ -1,1 +1,2 @@
-# .github
+- 👋 Hi, this is the GitHub Organization for Q-SYS Communities for Developers
+- 🚗 You can find our Community at developers.qsys.com
